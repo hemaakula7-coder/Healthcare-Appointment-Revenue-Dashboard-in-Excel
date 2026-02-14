@@ -46,5 +46,6 @@ This project demonstrates strong skills in data cleaning, KPI development, Pivot
 ✔ Business-Oriented Reporting
 ✔ Operational Analytics
 
+<img width="1881" height="895" alt="Screenshot 2026-02-06 173137" src="https://github.com/user-attachments/assets/3e2be8e7-0f2a-4d06-9560-84e8d7a9f9b8" />
 
 
